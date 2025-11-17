@@ -36,3 +36,9 @@ Observation des stats descriptives (mean, std) des gènes pour chaque classe, av
 ### Fatima
 
 ### Guérin
+
+## Prochaines étapes
+
+- augmentation des données (bootsrapping - injection de bruit - génération de données par GAN)
+- suppression des gènes moins variables
+- Regroupement des classes similaires et training de deux modèles
