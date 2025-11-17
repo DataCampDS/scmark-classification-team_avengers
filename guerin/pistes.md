@@ -25,7 +25,7 @@ On a supprimé les genes hautement representés et visualisés l'es resultats d'
 On a fait des recherches sur les méthodes de normalisation
 On a trouvé log normalisation, et library size normalisation
 
-on a essayé de trouver le nombre de composantes optimales pour l'acp.
+on a essayé de trouver le nombre de composantes optimales pour l'acp..
 
 On a essayé d'autres méthodes de reduction de dimensions
 
