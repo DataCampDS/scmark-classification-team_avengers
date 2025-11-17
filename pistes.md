@@ -33,9 +33,16 @@ Observation des stats descriptives (mean, std) des gènes pour chaque classe, av
 
 ### Sarah
 
+- Xgboost: acc - 0.68
+
 ### Fatima
 
+-
+
 ### Guérin
+
+- RandomForest Classifier: acc -
+- LinearSVC: acc - 0.81
 
 ## Prochaines étapes
 
