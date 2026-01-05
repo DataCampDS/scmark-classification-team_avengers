@@ -37,15 +37,14 @@ Observation des stats descriptives (mean, std) des gènes pour chaque classe, av
 
 ### Fatima-Zahra
 
-Entraînement des modèles de Lasso, SVM, XGboost et Stacking. 
-Résultats : 
-| Modèle     | Train_Balanced Acc   | Train — CV Acc(mean)| Test — Balanced Acc | Test — CV Acc(mean) |
+Entraînement des modèles de Lasso, SVM, XGboost et Stacking.
+Résultats :
+| Modèle | Train_Balanced Acc | Train — CV Acc(mean)| Test — Balanced Acc | Test — CV Acc(mean) |
 |------------|----------------------|-------------------- |---------------------|---------------------|
-|  Lasso     | 100%                 | 83.1%               | 77.6%               | 82.2%               |
-|  SVM       | 91.35%               | 70.6%               | 59.3%               | 58%                 |
-|  XGBoost   | 100%                 | 83.2%               | 77.9%               | 78.2%               |
-|  Stacking  | 100%                 | 86.9%               | 79.9%               | 81%                 |
-
+| Lasso | 100% | 83.1% | 77.6% | 82.2% |
+| SVM | 91.35% | 70.6% | 59.3% | 58% |
+| XGBoost | 100% | 83.2% | 77.9% | 78.2% |
+| Stacking | 100% | 86.9% | 79.9% | 81% |
 
 ### Guérin
 
@@ -57,3 +56,11 @@ Résultats :
 - augmentation des données (bootsrapping - injection de bruit - génération de données par GAN)
 - suppression des gènes moins variables
 - Regroupement des classes similaires et training de deux modèles
+
+# Final Guérin
+
+- Filtrage de gènes par variance
+- Normalisation (library size + log1p)
+- Réduction de dimension (PCA)
+- Classification hiérarchique en deux étapes
+- Stacking Classifier (RF + SVM + KNN)
