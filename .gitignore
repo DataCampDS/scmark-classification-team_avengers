@@ -11,3 +11,6 @@ __pycache__/
 
 venv/
 venAvenger/
+
+.DS_Store
+

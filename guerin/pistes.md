@@ -40,3 +40,5 @@ On a moins de 100k observations. En regardant la carte des methodes de scikit le
 On a remarqué qu'il y a deux classes qui se confondent beaucoup. que faire ?
 
 ##########################################################################
+
+Tests sur les niveaux d'expression des gènes dans les differents groupes
