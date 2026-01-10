@@ -208,4 +208,4 @@ class Classifier(object):
                     class_idx = self.class_to_idx[bin_class]
                     proba_final[sample_idx, class_idx] = proba_bin[j, k]
         
-        return proba_final 
+        return proba_final
