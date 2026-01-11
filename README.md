@@ -1,6 +1,5 @@
 [![build](https://github.com/ramp-kits/scMARK_classification/actions/workflows/testing.yml/badge.svg)](https://github.com/ramp-kits/scMARK_classification/actions/workflows/testing.yml)
 
-# TEAM AVENGERS
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=1000&color=667EEA&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=TEAM+AVENGERS" alt="Team Avengers" />
